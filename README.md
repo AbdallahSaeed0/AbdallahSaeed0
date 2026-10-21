@@ -4,11 +4,11 @@ Full-stack developer based in Giza, Egypt. I build web, desktop and mobile apps,
 
 ## Tech stack
 
-**Frontend:** React, Angular, TypeScript, JavaScript, HTML/CSS, Tailwind
-**Backend:** Laravel (PHP), .NET / ASP.NET Core, Node.js
-**Mobile & Desktop:** Flutter, Tauri, Electron
-**Databases:** MySQL, SQLite
-**Tools & Infra:** Git, Linux servers (cPanel/WHM), Vite
+- **Frontend:** React, Angular, TypeScript, JavaScript, HTML/CSS, Tailwind
+- **Backend:** Laravel (PHP), .NET / ASP.NET Core, Node.js
+- **Mobile & Desktop:** Flutter, Tauri, Electron
+- **Databases:** MySQL, SQLite
+- **Tools & Infra:** Git, Linux servers (cPanel/WHM), Vite
 
 ## Featured projects
 
